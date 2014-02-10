@@ -1,3 +1,5 @@
 Found these here: http://pcfarina.eng.unipr.it/Public/IMP-RESP/Violins/
 
-Generated the amplitude and phase spectrums for each impulse response wav. These seem reasonable based off my fiddle experience.
+Generated the amplitude and phase spectrums for each impulse response wav to test the code and methodology. These seem reasonable based off my fiddle experience.
+
+ToDo: map peaks to Chladni modes, map those to front and back plate thickness, send data to cnc machine, sell knock off strads out of the back of a van.
